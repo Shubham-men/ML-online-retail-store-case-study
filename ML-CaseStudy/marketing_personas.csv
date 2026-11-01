@@ -1,0 +1,5 @@
+KMeans_Cluster,Recency,Frequency,Monetary,Persona,Marketing_Strategy
+0,12.17,13.75,8088.02,VIP Customers,Exclusive Rewards and Loyalty Points
+1,181.51,1.32,341.0,Low-Engagement Customers,Targeted Promotions and Reminders
+2,17.7,2.19,557.32,Low-Engagement Customers,Targeted Promotions and Reminders
+3,71.64,4.08,1801.78,At-Risk Loyal Customers,Comeback Offers and Re-engagement Emails
